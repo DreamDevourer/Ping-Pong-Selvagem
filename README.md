@@ -38,7 +38,13 @@ This game is made using Construct 3 engine, but it has some JavaScript modificat
 
 ## 📄 Licença | License
 
+Todo o projeto é de código aberto, sprites, direção de arte e animações de personagens feitas por Beatriz Moukaddem, design de nível de jogo, lógica, elementos de cena e animações de cena projetadas por Nicolas Mendes. Conceito de projeto por Beatriz Moukaddem e Nicolas Mendes. 
+
+### en
+
 Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+
+The entire project is Open Source, sprites, art direction and character animations made by Beatriz Moukaddem, game level design, logic, scene elements and scene animations designed by Nicolas Mendes. Project concept by Beatriz Moukaddem and Nicolas Mendes.
 
 | Permissions | Restrictions | Conditions
 | --- | --- | --- 
