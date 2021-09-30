@@ -1,14 +1,33 @@
 <h1 align="center">Ping Pong Selvagem 🐒🏓🐻</h1>
 
+<p align="center">Um protótipo de um jogo de Ping Pongo feito para um desafio da PUC-PR.</p>
 <p align="center">A ping pong prototype game made for a Pontifical University of Parana Challenge.</p>
 
 <p align="center">
-  <a href="./LICENSE">License</a>
+  <a href="./LICENSE">Licença | License</a>
 </p>
 
 <img src="./Sample.gif" alt="Sample of the game running" width="100%" height="auto">
 
-## 📄 License
+## 🌎 Sobre | About
+
+Este jogo é feito usando a Construct 3 engine, mas também possui algumas modificações de JavaScript para otimizar e controlar coisas como seria renderizada no navegador.
+
+This game is made using Construct 3 engine, but it has some JavaScript modifications to it to optimize and control things like how it would be rendered on the browser.
+
+### More details | Mais detalhes (Currently only in portuguese)
+
+<img src="./slides/pt/01 - Intro.png" alt="Introdução" width="100%" height="auto">
+<img src="./slides/pt/02 - Conceito.png" alt="Conceito" width="100%" height="auto">
+<img src="./slides/pt/03 - Gameplay.png" alt="Gameplay" width="100%" height="auto">
+<img src="./slides/pt/04 - Lore.png" alt="Universo e história" width="100%" height="auto">
+<img src="./slides/pt/05 - Level.png" alt="Design do cenário" width="100%" height="auto">
+<img src="./slides/pt/06 - Audience.png" alt="Audiência do jogo" width="100%" height="auto">
+<img src="./slides/pt/07 - Dev.png" alt="Um pouco sobre o desenvolvimento" width="100%" height="auto">
+<img src="./slides/pt/08 - Dev-2.png" alt="Problemas durante o desenvolvimento" width="100%" height="auto">
+<img src="./slides/pt/09 - Finale.png" alt="Finalização" width="100%" height="auto">
+
+## 📄 Licença | License
 
 Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
