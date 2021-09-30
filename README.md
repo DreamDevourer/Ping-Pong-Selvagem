@@ -22,6 +22,8 @@
 
 Este jogo é feito usando a Construct 3 engine, mas também possui algumas modificações de JavaScript para otimizar e controlar coisas como seria renderizada no navegador.
 
+### en
+
 This game is made using Construct 3 engine, but it has some JavaScript modifications to it to optimize and control things like how it would be rendered on the browser.
 
 ### More details | Mais detalhes (Currently only in portuguese)
