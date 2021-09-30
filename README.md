@@ -2,9 +2,18 @@
 
 <p align="center">Um protótipo de um jogo de Ping Pongo feito para um desafio da PUC-PR.</p>
 <p align="center">A ping pong prototype game made for a Pontifical University of Parana Challenge.</p>
+</p>
+
+<div align="center">
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/305909fd-ed87-4788-96fd-200137cef92f/deploy-status)](https://app.netlify.com/sites/eloquent-brahmagupta-f513c4/deploys)
+
+</div>
 
 <p align="center">
-  <a href="./LICENSE">Licença | License</a>
+  <a href="./CONTRIBUTION.md">Contributing/Contribuição</a> |
+  <a href="https://eloquent-brahmagupta-f513c4.netlify.app/">Play</a> |
+  <a href="./LICENSE">Licença/License</a>
 </p>
 
 <img src="./Sample.gif" alt="Sample of the game running" width="100%" height="auto">
